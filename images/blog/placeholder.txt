@@ -1,0 +1,18 @@
+The following images need to be created/added:
+
+1. blog-hero-bg.jpg - Background image for the blog landing page (1920 × 1080px)
+2. blog-post-header-bg.jpg - Background image for the blog post headers (1920 × 1080px)
+3. boxes-packed.jpg - Thumbnail for the packing efficiently article (600 × 360px)
+4. boxes-packed-large.jpg - Featured image for the packing efficiently article (1200 × 700px)
+5. construction-site-storage.jpg - Thumbnail for the construction site storage article (600 × 360px)
+6. construction-site-storage-large.jpg - Featured image for the construction article (1200 × 700px)
+7. construction-organization.jpg - Image showing organized construction tools (800-1000px wide)
+8. storage-layout.jpg - Diagram showing efficient storage unit layout (800-1000px wide)
+9. author.jpg - Photo of author Dwayne Grubbs (200 × 200px square)
+
+Image format recommendations:
+- JPG for photos and background images
+- PNG for diagrams and illustrations
+- WebP as an alternative for all images for better compression
+
+All images should be compressed for web to ensure fast loading times. 
